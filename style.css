@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #AAA99D;
+}
+
+header {
+    background-color: #c8ccce;
+    padding: 50px;
+    border-bottom: 2px solid #1F2223 ;
+}
+
+header div {
+    text-align: center;
+}
+
+.links a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 18px;
+    line-height: 28px;
+    margin: 0 16px;
+    /* == Definir fonte ==*/
+}
